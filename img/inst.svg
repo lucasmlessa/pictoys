@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>instagram-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="principal" sketch:type="MSArtboardGroup" transform="translate(-990.000000, -43.000000)">
+            <g id="twitter-logo-button-+-instagram-logo-+-facebook-logo-button" sketch:type="MSLayerGroup" transform="translate(929.000000, 43.000000)">
+                <g id="instagram-logo" transform="translate(61.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="Group">
+                        <path d="M12.413,0 C5.5685,0 0,5.5685 0,12.413 C0,19.257 5.5685,24.826 12.413,24.826 C19.257,24.826 24.826,19.257 24.826,12.413 C24.826,5.5685 19.258,0 12.413,0 L12.413,0 Z" id="Path" fill="#3B3D98"></path>
+                        <path d="M19.4725,10.9645 L19.4725,16.7445 C19.4725,18.25 18.2485,19.4735 16.744,19.4735 L8.082,19.4735 C6.577,19.4735 5.3535,18.25 5.3535,16.7445 L5.3535,10.9645 L5.3535,8.0825 C5.3535,6.5775 6.577,5.354 8.082,5.354 L16.7435,5.354 C18.2485,5.354 19.4725,6.5775 19.4725,8.0825 L19.4725,10.9645 L19.4725,10.9645 Z" id="Path" fill="#FFFFFF"></path>
+                        <path d="M12.4125,14.898 C13.782,14.898 14.8985,13.7835 14.8985,12.413 C14.8985,11.872 14.7215,11.3725 14.4285,10.9645 C13.977,10.3385 13.243,9.928 12.414,9.928 C11.5845,9.928 10.851,10.338 10.3985,10.964 C10.1045,11.372 9.929,11.8715 9.9285,12.4125 C9.927,13.783 11.0425,14.898 12.4125,14.898 L12.4125,14.898 Z" id="Shape" fill="#3B3D98"></path>
+                        <path d="M17.839,9.373 L17.839,7.29 L17.839,6.98 L17.5275,6.981 L15.4455,6.9875 L15.4535,9.381 L17.839,9.373 Z" id="Shape" fill="#3B3D98"></path>
+                        <path d="M16.2745,12.413 C16.2745,14.5415 14.5425,16.2745 12.413,16.2745 C10.2835,16.2745 8.552,14.5415 8.552,12.413 C8.552,11.901 8.654,11.4115 8.836,10.9645 L6.7285,10.9645 L6.7285,16.7445 C6.7285,17.4915 7.335,18.0965 8.0815,18.0965 L16.743,18.0965 C17.4885,18.0965 18.096,17.4915 18.096,16.7445 L18.096,10.9645 L15.9875,10.9645 C16.171,11.4115 16.2745,11.901 16.2745,12.413 L16.2745,12.413 Z" id="Shape" fill="#3B3D98"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

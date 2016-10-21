@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="25px" viewBox="0 0 26 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook-logo-button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="principal" sketch:type="MSArtboardGroup" transform="translate(-959.000000, -43.000000)">
+            <g id="twitter-logo-button-+-instagram-logo-+-facebook-logo-button" sketch:type="MSLayerGroup" transform="translate(929.000000, 43.000000)">
+                <g id="facebook-logo-button" transform="translate(30.500000, 0.000000)" sketch:type="MSShapeGroup">
+                    <path d="M12.413,0 C5.5685,0 0,5.5685 0,12.413 C0,19.257 5.5685,24.826 12.413,24.826 C19.257,24.826 24.826,19.257 24.826,12.413 C24.826,5.5685 19.258,0 12.413,0 L12.413,0 Z" id="Shape" fill="#3B3D98"></path>
+                    <path d="M15.5,12.85 L13.4805,12.85 L13.4805,20.048 L10.488,20.048 L10.488,12.85 L9.0655,12.85 L9.0655,10.306 L10.488,10.306 L10.488,8.6605 C10.488,7.482 11.048,5.6405 13.508,5.6405 L15.7255,5.649 L15.7255,8.1185 L14.116,8.1185 C13.854,8.1185 13.4815,8.2495 13.4815,8.8115 L13.4815,10.3065 L15.7615,10.3065 L15.5,12.85 L15.5,12.85 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

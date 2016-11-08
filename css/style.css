@@ -102,7 +102,7 @@ ul.nav.nav-pills.menu-geral a {
 	padding: 10px 25px;
 	transition: .2s linear color;
 }
-ul.nav.nav-pills.menu-geral a:hover {
+ul.nav.nav-pills.menu-geral a:hover, ul.nav.nav-pills.menu-geral a:focus  {
 	color: #F8E71C;
 	background: none;
 	transition: .2s linear color;
@@ -116,9 +116,9 @@ ul.nav.nav-pills.pull-right.menu-topo a {
 	border-radius: 6px;
 	transition: .1s linear all;
 }
-ul.nav.nav-pills.pull-right.menu-topo a:hover {
+ul.nav.nav-pills.pull-right.menu-topo a:hover , ul.nav.nav-pills.pull-right.menu-topo a:focus {
 	color: #FFFAC2;
-	background-color: #2E3192;
+	background-color: #2E3192 !important;
 	border-radius: 6px;
 	padding: 7px;
 	margin-right: 5px;
@@ -294,7 +294,23 @@ nav ul {
 #likebox-wrapper * {
 	width: 100% !important;
 }
-
+.sobre-content{
+	border-radius: 10px;
+	background-color: #fff;
+	padding: 22px;
+	margin-bottom: 30px;
+}
+.box-marcas {
+	margin: 0 0 20px;
+	padding: 0;
+}
+.box-marcas li{
+	list-style: none;
+	margin-right: 5px;
+}
+.box-marcas img{
+	margin-bottom: 15px;
+}
 @media only screen and (max-width: 500px) {
 .logo {
 	margin: 0 auto;
